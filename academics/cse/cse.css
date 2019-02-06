@@ -342,7 +342,7 @@ a:hover{
     #footer img{
         width: 41%;
         margin-left: 150px;
-        margin-bottom: 15px;
+        margin-bottom: 50px;
     }
 }
 @media(min-width: 2560px){
